@@ -1,3 +1,4 @@
-//Import mysql2
+
+// Import mysql2
 // Import inquirer
 // Import console.table

@@ -2,7 +2,7 @@ DROP DATABASE IF EXISTS company_db;
 CREATE DATABASE company_db;
 
 USE company_db;
-
+-- Why are some of these column names in blue? (name column and role table name)
 CREATE TABLE department (
   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(30) NOT NULL
